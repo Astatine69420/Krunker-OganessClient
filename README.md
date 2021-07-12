@@ -1,12 +1,8 @@
 # Oganess
 [![Total downloads](https://img.shields.io/github/downloads/mixaz017/idkr/total)](https://github.com/Mixaz017/idkr/releases)
-[![Discord server](https://discord.com/api/guilds/697366856914173994/widget.png)](https://discord.gg/wEZbFFX)
 
-idk, just a Krunker client  
-This client aims for:
-- Stable behavior and performance
-- Advanced customizability (settings and userscripts)
-- Constructive to the community (open source and MIT license)
+This client aims to to be light on system resources and get you the most fps.
+DM me on discord with any questions or requests for the client @Eartingo_YT#4736
 
 ## Supported Platforms
 | Platform | File Type |
@@ -18,9 +14,6 @@ This client aims for:
 ## Links
 ### idkr Discord server
 https://discord.gg/wEZbFFX
-
-### Wiki
-https://github.com/Mixaz017/idkr/wiki
 
 ### Download
 [Latest release / changelog](https://github.com/Mixaz017/idkr/releases/latest)

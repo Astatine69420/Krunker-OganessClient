@@ -1,4 +1,4 @@
-# idkr
+# Oganess
 [![Total downloads](https://img.shields.io/github/downloads/mixaz017/idkr/total)](https://github.com/Mixaz017/idkr/releases)
 [![Discord server](https://discord.com/api/guilds/697366856914173994/widget.png)](https://discord.gg/wEZbFFX)
 
@@ -16,7 +16,7 @@ This client aims for:
 | Linux | `AppImage` |
 
 ## Links
-### Discord Server
+### idkr Discord server
 https://discord.gg/wEZbFFX
 
 ### Wiki
